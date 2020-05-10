@@ -1,0 +1,36 @@
+.header, .hero, .body, .bar, .body2, .footer{
+   /* background-color: #b3aab0; */
+   background-color: #d5dbe6;
+    padding: 20px 0 10px 0;
+    margin-bottom: 20px;
+}
+.bg{
+    background-color: #f255be;
+    border: 5px solid #524a50;
+    min-height: 80px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.red{
+    background-color: #f23587;
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.body h4{
+    font-size: 30px;
+    font-weight: 600;
+}
+.body ul, .body li{
+    font-size: 20px;
+    font-weight: 400;
+}
+.body2 p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.body img{
+    background-color: #d5dbe6;
+}
